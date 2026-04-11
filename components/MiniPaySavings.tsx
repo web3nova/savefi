@@ -20,7 +20,7 @@ const APY_TIERS = [
   { label: "Base",     apy: 10, minDays: 0,   color: "#35D07F", desc: "0–89 days"   },
   { label: "Silver",   apy: 18, minDays: 90,  color: "#FBCC5C", desc: "90–179 days" },
   { label: "Gold",     apy: 25, minDays: 180, color: "#f97316", desc: "180–364 days" },
-  { label: "Platinum", apy: 30, minDays: 365, color: "#a78bfa", desc: "365+ days"   },
+  { label: "Bronze", apy: 30, minDays: 365, color: "#a78bfa", desc: "365+ days"   },
 ];
 
 function getActiveTier(days: number) {
