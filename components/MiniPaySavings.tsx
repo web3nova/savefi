@@ -407,10 +407,12 @@ export default function MiniPaySavings() {
       </div>
 
       {/* ── Action Card ── */}
+      
       <div className="flex-1 mx-4 rounded-3xl p-5"
         style={{ background: "rgba(255,255,255,0.03)", border: "1px solid rgba(255,255,255,0.07)" }}>
 
         {/* TX status */}
+
         {txStatus !== "idle" && (
           <div className="mb-5 rounded-2xl p-4 flex items-center gap-3"
             style={{
