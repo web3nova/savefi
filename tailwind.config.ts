@@ -16,7 +16,7 @@ const config: Config = {
       colors: {
         celo: {
           green: "#07d66b",
-          gold: "#FBCC5C",
+          gold: "#fec131",
           dark: "#1E002B",
         },
       },
