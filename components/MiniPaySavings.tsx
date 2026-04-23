@@ -273,7 +273,7 @@ function ModeSwitchModal({
           <button
             onClick={onSwitchToDemo}
             className="w-full py-3.5 rounded-2xl font-semibold text-sm flex items-center justify-center gap-2 transition-all active:scale-95"
-            style={{ background: "rgba(251,204,92,0.12)", color: "#FBCC5C", border: "1px solid rgba(251,204,92,0.25)" }}
+            style={{ background: "rgba(255, 208, 99, 0.12)", color: "#FBCC5C", border: "1px solid rgba(251,204,92,0.25)" }}
           >
             🧪 Switch to Demo Mode
           </button>
