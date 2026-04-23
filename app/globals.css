@@ -39,7 +39,7 @@ body::before {
 }
 
 .glow-gold {
-  box-shadow: 0 0 40px rgba(251, 204, 92, 0.15);
+  box-shadow: 0 0 40px rgba(251, 202, 89, 0.15);
 }
 
 @keyframes pulse-ring {
